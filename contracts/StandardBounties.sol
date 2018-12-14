@@ -1,5 +1,6 @@
 pragma solidity ^0.4.18;
-import "./inherited/HumanStandardToken.sol";
+//import "./inherited/HumanStandardToken.sol";
+import "https://raw.githubusercontent.com/heavyfridge/StandardBounties/master/contracts/inherited/StandardToken.sol";
 
 /// @title StandardBounties
 /// @dev Used to pay out individuals or groups for task fulfillment through
